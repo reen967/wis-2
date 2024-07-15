@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Get involved',
+            label: 'Get started',
           },
           {to: '/blog', label: 'Invest', position: 'left'},
           {
