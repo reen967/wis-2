@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Workforce Integration Solutions',
   tagline1: 'Reinventing the way job seekers and employers connect.',
-  tagline2: 'I am an',
+  tagline2: 'I am a(n)',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
