@@ -69,13 +69,7 @@ const config = {
             position: 'left',
             label: 'Get involved',
           },
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Invest',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Invest', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
